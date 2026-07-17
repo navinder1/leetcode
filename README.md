@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/navinder1/leetcode/tree/master/0231-power-of-two) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Recursion
 |  |
 | ------- |
@@ -50,5 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+## String
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+## Sliding Window
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
