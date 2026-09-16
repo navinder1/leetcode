@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/navinder1/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/navinder1/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/navinder1/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navinder1/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
