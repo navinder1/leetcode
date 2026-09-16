@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/navinder1/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/navinder1/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
 | [0283-move-zeroes](https://github.com/navinder1/leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navinder1/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
