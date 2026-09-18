@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/navinder1/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/navinder1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navinder1/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/navinder1/leetcode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navinder1/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1729-find-followers-count](https://github.com/navinder1/leetcode/tree/master/1729-find-followers-count) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
