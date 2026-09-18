@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1729-find-followers-count](https://github.com/navinder1/leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
