@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/navinder1/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/navinder1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navinder1/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/navinder1/leetcode/tree/master/0506-relative-ranks) |
+| [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navinder1/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
