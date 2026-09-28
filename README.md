@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/navinder1/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/navinder1/leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/navinder1/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Sliding Window
 |  |
@@ -182,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
