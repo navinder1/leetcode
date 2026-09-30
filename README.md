@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/navinder1/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/navinder1/leetcode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/navinder1/leetcode/tree/master/0216-combination-sum-iii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/navinder1/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/navinder1/leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/navinder1/leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
