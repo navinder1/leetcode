@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1021-remove-outermost-parentheses](https://github.com/navinder1/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/navinder1/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/navinder1/leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/navinder1/leetcode/tree/master/0216-combination-sum-iii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/navinder1/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/navinder1/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
