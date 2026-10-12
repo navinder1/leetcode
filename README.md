@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/navinder1/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/navinder1/leetcode/tree/master/1260-shift-2d-grid) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/navinder1/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navinder1/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navinder1/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/navinder1/leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/navinder1/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/navinder1/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/navinder1/leetcode/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/navinder1/leetcode/tree/master/1051-height-checker) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/navinder1/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navinder1/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navinder1/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
