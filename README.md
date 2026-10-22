@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/navinder1/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navinder1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/navinder1/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/navinder1/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/navinder1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navinder1/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
