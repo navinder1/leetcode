@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/navinder1/leetcode/tree/master/0231-power-of-two) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/navinder1/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/navinder1/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/navinder1/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2670-find-the-distinct-difference-array](https://github.com/navinder1/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/navinder1/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/navinder1/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/navinder1/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
